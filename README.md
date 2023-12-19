@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱a Sprout of Frontend with Lots of Photosynthesis 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermannChoi&show_icons=true&theme=transparent)
 <!--
