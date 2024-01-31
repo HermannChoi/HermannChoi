@@ -11,10 +11,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white)
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermannChoi&show_icons=true&theme=transparent)
 <!--
 **HermannChoi/HermannChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
