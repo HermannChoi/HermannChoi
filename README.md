@@ -14,6 +14,8 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-51b8d4?style=for-the-badge&logo=React&logoColor=white)
+![Threejs](https://img.shields.io/badge/ReactNative-51b8d4?style=for-the-badge&logo=React&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white)
 
 ![Zustand](https://img.shields.io/badge/Zustand-39312a?style=for-the-badge&logo=Zustand&logoColor=white)
 ![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
